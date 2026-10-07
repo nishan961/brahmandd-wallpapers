@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "wallpapers": [
+    {
+      "id": "shiva_kailash",
+      "name": "Shiva • Kailash",
+      "description": "Meditating Shiva on Mount Kailash, depth-layered for gyro parallax",
+      "image": "shiva.jpg",
+      "depth": "shiva_depth.png"
+    },
+    {
+      "id": "krishna_vrindavan",
+      "name": "Krishna • Vrindavan",
+      "description": "Krishna's divine flute in the cosmic forest, depth-layered for gyro parallax",
+      "image": "krishna.jpg",
+      "depth": "krishna_depth.png"
+    },
+    {
+      "id": "durga_tiger",
+      "name": "Durga • Tiger",
+      "description": "Durga riding the colossal tiger, depth-layered for gyro parallax",
+      "image": "durga.jpg",
+      "depth": "durga_depth.png"
+    },
+    {
+      "id": "hanuman_leap",
+      "name": "Hanuman • Leap",
+      "description": "Hanuman soaring with the mountain, depth-layered for gyro parallax",
+      "image": "hanuman.jpg",
+      "depth": "hanuman_depth.png"
+    },
+    {
+      "id": "ram_bow",
+      "name": "Ram • Divine Bow",
+      "description": "Ram with the glowing bow at sunset, depth-layered for gyro parallax",
+      "image": "ram.jpg",
+      "depth": "ram_depth.png"
+    }
+  ]
+}
